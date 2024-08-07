@@ -14,12 +14,10 @@ Já realizei/Have done:
 ## 🌎 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=js,c,java,kotlin,lua)](https://skillicons.dev)<br><br>
 [![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)
-[![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)
-[![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma)](https://skillicons.dev)<br><br>
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br><br>
 
 ## ✉ Contato
