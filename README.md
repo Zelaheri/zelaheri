@@ -13,7 +13,6 @@ Já realizei/Have done:
 
 ## 🌎 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=js,c,java,kotlin,lua)](https://skillicons.dev)<br><br><br>
-
 [![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
@@ -22,5 +21,5 @@ Já realizei/Have done:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br><br>
 
 ## ✉ Contato
-[![Gmail Badge](https://img.shields.io/badge/-jecod31@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Gmail Badge](https://img.shields.io/badge/-jecod31@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})<br>
 Estou à disposição para trocar qualquer ideia, principalmente inovadoras e interessantes. 😃 <br><br>
