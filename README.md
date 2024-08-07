@@ -1,4 +1,4 @@
-<h1 align="center">👋 E aí? Prazer, Eduardo Oliveira</h1>
+<h1 align="center">👋 E aí? Prazer, Eduardo</h1>
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Técnico em Desenvolvimento de Sistemas
