@@ -1,7 +1,7 @@
 <h1 align="center">👋 E aí? Prazer, Eduardo</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Técnico em Desenvolvimento de Sistemas
+  💻 Técnico em Desenvolvimento de Sistemas | 🌍 Estudante de Programação
 </p><br><br>
 
 <!--
@@ -14,11 +14,14 @@ Já realizei/Have done:
 ## 🌎 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=js,c,java,kotlin,lua)](https://skillicons.dev)<br><br>
 [![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)
+[![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)
+[![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,mysql,figma,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
+## ✉ Contato
 [![Gmail Badge](https://img.shields.io/badge/-jecod31@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-
 Estou à disposição para trocar qualquer ideia, principalmente inovadoras e interessantes. 😃 <br><br>
