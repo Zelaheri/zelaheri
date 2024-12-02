@@ -12,7 +12,7 @@ Já realizei/Have done:
  -->
 
 ## 🌎 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=js,c,java,kotlin,lua)](https://skillicons.dev)<br><br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,c,lua)](https://skillicons.dev)<br><br><br>
 [![Zelaheri](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelaheri&hide=html&layout=compact&theme=radical)](https://github.com/zelaheri/)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
